@@ -23,4 +23,12 @@
         tools:layout_editor_absoluteX="29dp"
         tools:layout_editor_absoluteY="121dp" />
 
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="日付・時間を入力してください"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="354dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
