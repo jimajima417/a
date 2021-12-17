@@ -19,7 +19,13 @@
             </intent-filter>
         </activity>
         <activity android:name=".Gamen1"
-            android:label="@string/app_name">
+            android:label="My Application">
+        </activity>
+        <activity android:name=".Gamen2"
+            android:label="My Application">
+        </activity>
+        <activity android:name=".Gamen3"
+            android:label="My Application">
         </activity>
     </application>
 
