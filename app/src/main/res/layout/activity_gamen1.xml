@@ -73,6 +73,34 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.452" />
 
+    <EditText
+        android:id="@+id/edit_Text3"
+        android:layout_width="340dp"
+        android:layout_height="44dp"
+        android:layout_margin="112dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="開始時間:"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.516" />
+
+    <EditText
+        android:id="@+id/edit_Text4"
+        android:layout_width="340dp"
+        android:layout_height="44dp"
+        android:layout_margin="112dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="終了時間:"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.656" />
+
     <TextView
         android:id="@+id/textView9"
         android:layout_width="wrap_content"
